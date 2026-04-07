@@ -87,26 +87,3 @@ summary: Public transit reservation app for the disadvantaged
 ![노선검색4](https://github.com/2022-SMHRD-IS-BigData3/withtayo/assets/129911634/a31f8de7-7751-40cd-ae30-699ad0a8e178) ![노선검색5](https://github.com/2022-SMHRD-IS-BigData3/withtayo/assets/129911634/3403f9ce-19cd-4b3f-8b65-4b6f917ad1af)
 ![기사예약](https://github.com/2022-SMHRD-IS-BigData3/withtayo/assets/129911634/16c389f6-43bc-4812-9476-e7938c4968cb) ![기사대기](https://github.com/2022-SMHRD-IS-BigData3/withtayo/assets/129911634/daa58062-8c6c-4e44-9447-2fdd745c7cac)
 
-
-
-
-
-<br>
-(IMAGE)
-BLA BLA BLA BLA
-(IMAGE)
-일정/고객센터
-
-## THE FAM
-| HC K |	DH S |	EH B |	DH K |	MC W|
-|---| ---|---|---|---|
-|PM |	Backend |	Frontend |	Frontend |	DBA |
-|github |	github |	github |	github |	github|
-
-## Assessment for posterity
-개념: 문제 해결을 위해 문제의 원인을 논리적이고 체계적으로 찾는 일이며 제품이나 프로세스의 운영을 재개 프로젝트 진행하는 동안 발생했던 이슈 중 가장 기억에 남았던 문제와 해결 프로세스 나열(2~5가지 정도)
-
-    1. 문제점 설명 및 해결방안
-       계획수립 단계 미흡
-       조금 더 철저한 계획수립
-    2. 문제점 설명 및 해결방안
